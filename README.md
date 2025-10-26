@@ -1,7 +1,7 @@
 
 # Analise-Dataset
 
-## 🛠️ Instruções de Uso
+## Instruções de Uso
 
 ### Pré-requisitos
 
